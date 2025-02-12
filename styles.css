@@ -17,6 +17,10 @@ body {
     font-size: 2.5em;
     color: #d32f2f;
   }
+  h2 {
+    
+    color: #3d06f3;
+  }
   
   .buttons {
     margin-top: 20px;
